@@ -325,7 +325,7 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
 <a id="latex"></a>
 ### LaTeX
 * Pour produire des PDF avec Pandoc, notamment
-* [Installer LaTeX](https://pandoc.org/installing.html)
+* Pour installer LaTeX, suivre les [instructions du site de Pandoc](https://pandoc.org/installing.html)
 * [(Xe)LaTeX appliqué aux sciences humaines](https://geekographie.maieul.net/95) (introduction pertinente et francophone, à télécharger librement)
 
 <a id="ocr--tesseract"></a>
