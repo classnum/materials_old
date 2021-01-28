@@ -153,7 +153,7 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
 <a id="biblioth%C3%A8ques-en-ligne"></a>
 ### Bibliothèques en ligne
 * [Project Gutenberg](https://www.gutenberg.org/)
-* [TLG](https://stephanus.tlg.uci.edu/) – à consulter à partir du portail BU Paris-Nanterre (sur abonnement)
+* [TLG](https://stephanus.tlg.uci.edu/) (sur abonnement : à consulter à partir du [portail de la BU](http://bu.parisnanterre.fr/))
 * [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/)
     * À consulter sur le [Scaife Viewer](https://scaife.perseus.org/) lorsque les textes y sont disponibles
     * Entrepôts de données du projet Perseus : [bibliothèque grecque](https://github.com/PerseusDL/canonical-greekLit) et [bibliothèque latine](https://github.com/PerseusDL/canonical-latinLit).
