@@ -21,6 +21,7 @@
 - [Outils et langages](#outils-et-langages)
     - [Éditeur de texte : Atom](#%C3%89diteur-de-texte--atom)
     - [Markdown](#markdown)
+    - [GitHub](#github)
     - [Terminal Unix](#terminal-unix)
     - [Pandoc](#pandoc)
     - [Regex](#regex)
@@ -220,6 +221,14 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
 * [CriticMarkup](http://criticmarkup.com/)
     * Le Multimarkdown inclut la syntaxe CriticMarkup pour ses fonctions de révision.
 * [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) (tutoriel)
+
+<a id="github"></a>
+### GitHub
+* [GitHub](https://github.com/)
+    * Sunoikisis Digital Classics, "Open Source software, command line and Git", 2020 : [présentation de Git](https://www.youtube.com/watch?v=1FDY28DRgso&amp;t=3177), puis [présentation de GitHub](https://www.youtube.com/watch?v=1FDY28DRgso&amp;t=3599)
+    * Tutoriel [Hello World](https://guides.github.com/activities/hello-world/) : principes généraux et utilisation de GitHub sur le Web
+    * [GitHub Desktop](https://desktop.github.com/) : interface graphique
+* Entrepôt de données [Classnum sur GitHub](https://github.com/classnum)
 
 <a id="terminal-unix"></a>
 ### Terminal Unix
