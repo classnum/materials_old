@@ -319,6 +319,7 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
     * Forum [StackOverflow, recherche limitée aux discussions concernant R](https://stackoverflow.com/questions/tagged/r)
     * [RSeek.org](https://rseek.org/) (moteur de recherche spécifique)
     * Recommandations du package [Reprex](https://reprex.tidyverse.org/articles/reprex-dos-and-donts.html) – que je ne vous demande pas d'utiliser, mais qui fait le point et donne des liens sur la question du *minimal reproducible example* abordée dans la rubrique <a id="forum--quelques-bonnes-habitudes">Forum : quelques bonnes habitudes</a> du présent document
+    * [R Debugging Bingo](https://docs.google.com/presentation/d/1iRUa51RQila_vRYdarFt7MhgH-emmKYQqylK0kgjr3Q/)
 * Packages du Tidyverse : [documentation](https://www.tidyverse.org/packages/)
 * Site de référence du package de représentation graphique [ggplot2](https://ggplot2.tidyverse.org/)
     * Cédric Scherer, tutoriel « [A Ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) »
