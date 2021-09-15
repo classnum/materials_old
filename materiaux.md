@@ -313,7 +313,7 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
 * [R](https://cran.r-project.org/)
 * [RStudio](https://www.rstudio.com/products/rstudio/)
 * [RStudio cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
-    * Tour détaillé de l'environnement de travail de RStudio : [en anglais](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf) et [en français](https://github.com/rstudio/cheatsheets/raw/master/translations/french/rstudio-IDE-cheatsheet.pdf)
+    * Tour détaillé de l'environnement de travail de RStudio : [en anglais](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf) et [en français](https://github.com/rstudio/cheatsheets/raw/master/translations/french/rstudio-ide_fr.pdf)
 * Trouver des réponses, poser des questions
     * Copier un message d'erreur ou un nom de commande dans un moteur de recherche (à choisir, [DuckDuckGo](https://duckduckgo.com/) plutôt que Google) permet le plus souvent de mieux comprendre un problème assez vite.
     * Forum [StackOverflow, recherche limitée aux discussions concernant R](https://stackoverflow.com/questions/tagged/r)
