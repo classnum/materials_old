@@ -84,6 +84,7 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
 | [ ]     | crochets (*square brackets*)                               |
 | { }     | accolades (*curly braces*, *curly brackets*)               |
 | < >     | chevrons, crochets obliques (*angle brackets*, *chevrons*) |
+| |       | barre droite (*pipe*)                                      |
 | /       | barre oblique (*slash*, *forward slash*)                   |
 | \       | barre oblique inversée (*antislash*, *back slash*)         |
 | _       | tiret bas (*underscore*)                                   |
