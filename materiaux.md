@@ -359,8 +359,7 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
 
 <a id="lemmatisation"></a>
 ### Lemmatisation
-* [Deucalion](https://dh.chartes.psl.eu/deucalion/) (lemmatisation)
-* [Pyrrha](https://github.com/hipster-philology/pyrrha) (post-correction)
+* [Pyrrha](https://dh.chartes.psl.eu/pyrrha/), environnement de "post-correction" intégrant le service Web [Deucalion](https://dh.chartes.psl.eu/deucalion/)
 
 <a id="expositions-virtuelles"></a>
 ### Expositions virtuelles
