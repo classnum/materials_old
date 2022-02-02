@@ -34,6 +34,8 @@
     - [Open Refine](#open-refine)
     - [CLTK](#cltk)
     - [Stopwords](#stopwords)
+    - [Lemmatisation](#lemmatisation)
+    - [Expositions virtuelles](#expositions-virtuelles)
 
 <!-- /MarkdownTOC -->
 
@@ -354,3 +356,12 @@ Ceci est un paragraphe de code (affiché comme *blockquote*),
 <a id="stopwords"></a>
 ### Stopwords
 * [Principes](https://github.com/aurelberra/stopwords/blob/master/rationale.md) des listes utilisées
+
+<a id="lemmatisation"></a>
+### Lemmatisation
+* [Deucalion](https://dh.chartes.psl.eu/deucalion/) (lemmatisation)
+* [Pyrrha](https://github.com/hipster-philology/pyrrha) (post-correction)
+
+<a id="expositions-virtuelles"></a>
+### Expositions virtuelles
+* [Omeka](https://omeka.org/classic/) (publication de métadonnées et de documents)
